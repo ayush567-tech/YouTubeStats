@@ -9,3 +9,5 @@ An Android application which provides analytics of a YouTube channel, implemente
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
+## Screenshots
+<img src="https://github.com/divyansh49/Location-Tracker/blob/master/MainActivity.jpg" alt="MainActivity" width="250" height="400"> <img src="https://github.com/divyansh49/Location-Tracker/blob/master/StatsActivity.jpg" alt="MyLocationActivity" width="250" height="400"> 
